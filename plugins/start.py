@@ -50,7 +50,7 @@ async def start_cmd(client: Client, message: Message):
         ],
         [
             InlineKeyboardButton("Group 👥", url="https://t.me/luxurypartner"),
-            InlineKeyboardButton("🌐 Update", url="https://t.me/myanmarbot_music/29")
+            InlineKeyboardButton("🌐 Update", url="https://t.me/Buddhaknowledge6/132")
         ],
         [
             InlineKeyboardButton("Add Me To Your Group ➕", url=f"https://t.me/{client.me.username}?startgroup=true")
